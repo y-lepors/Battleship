@@ -1,0 +1,6 @@
+porte-avion : 12 : 5 : VERTICAL :
+fregate : 1 : 0 : VERTICAL :
+fregate : 2 : 7 : HORIZONTAL :
+patrouilleur : 0 : 9 : HORIZONTAL :
+sous-marin : 8 : 12 : VERTICAL :
+remorqueur : 1 : 12 : VERTICAL :
