@@ -1,7 +1,7 @@
 ===== Lire attentivement ce fichier avant de jouer =====
 
 Ce jeu est une bataille navale.
-Une fois le jeux lancer il sera néccessaire de repositionner les fenêtre de grille à chaque tours de de joueur, 5 secondes y seront dédiées.
+Une fois le jeu lancé il sera néccessaire de repositionner les fenêtres de grille à chaque tours de de joueur, 5 secondes y seront dédiées.
 A chaque tour si le joueur est humain il sera néccéssaire d'entrer les coordonnées Verticale puis les coordonnées Horizontale.
 
 == Placement des fichier de configuration ==
